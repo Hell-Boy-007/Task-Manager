@@ -1,9 +1,9 @@
-📝 Task Manager (To-Do List App)
+#📝 Task Manager (To-Do List App)
 
 A simple task manager / to-do list application built with Node.js.
 This project is for learning the basics of backend development with Node.js, Express, and basic CRUD operations.
 
-📌 Features
+##📌 Features
 
 Add new tasks
 
@@ -15,7 +15,7 @@ Delete tasks
 
 Persistent storage (MongoDB)
 
-🚀 Tech Stack
+##🚀 Tech Stack
 
 Node.js
 
@@ -25,7 +25,7 @@ MongoDB
 
 HTML, CSS, JavaScript (for frontend)
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
 
 
 Install dependencies:
@@ -40,13 +40,13 @@ npm start
 
 By default, the app runs on http://localhost:5000
 
-📖 Usage
+##📖 Usage
 
 Open your browser and go to http://localhost:5000
 
 Add tasks, mark them complete, and delete them.
 
-📂 Project Structure
+##📂 Project Structure
 task-manager/
 │── package.json
 │── app.js
@@ -58,7 +58,7 @@ task-manager/
 |── db/
 |── controllers/
 
-💡 Future Improvements
+#💡 Future Improvements
 
 User authentication (login/signup)
 
