@@ -28,12 +28,12 @@ HTML, CSS, JavaScript (for frontend)
 ## ⚙️ Installation & Setup
 
 
-Install dependencies:
+**Install dependencies:**
 
 npm install
 
 
-Start the server:
+**Start the server:**
 
 npm start
 
