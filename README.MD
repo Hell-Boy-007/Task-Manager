@@ -68,6 +68,6 @@ Set due dates and reminders
 
 Deploy on Heroku / Vercel
 
-👤 Author
+# 👤 Author
 
 Tanishq Majumder ──  https://github.com/Hell-Boy-007
