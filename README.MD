@@ -52,13 +52,21 @@ task-manager/
 │── package.json
 
 │── app.js
+
 │── routes/
+
 │── models/
+
 │── middleware/
+
 │── public/
+
 |── errors/
+
 |── db/
+
 |── controllers/
+
 
 # 💡 Future Improvements
 
