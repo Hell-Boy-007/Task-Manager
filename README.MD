@@ -48,7 +48,9 @@ Add tasks, mark them complete, and delete them.
 
 ## 📂 Project Structure
 task-manager/
+
 │── package.json
+
 │── app.js
 │── routes/
 │── models/
